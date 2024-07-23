@@ -4,6 +4,7 @@ document.addEventListener('DOMContentLoaded', async function() {
   const searchButton = document.getElementById('button')
   const resultContainer = document.getElementById('results-container')
 
+
   let recipes = null
   
   // Try and fetch the recipes from `db.json` using fetch()
@@ -24,6 +25,9 @@ document.addEventListener('DOMContentLoaded', async function() {
 
   // Listen for `click` event on the button then perform recipe search
   searchButton.addEventListener('click', function() {
+    // Clear the result container 
+    resultContainer.innerHTML = ''
+    
     // Get the search term from the input box
     let searchTerm = inputBox.value
 
