@@ -1,0 +1,99 @@
+{
+    "recipes": [
+        {
+            "id": 1,
+            "name": "Spaghetti Carbonara",
+            "ingredients": [
+                {
+                    "name": "Spaghetti",
+                    "quantity": "200g"
+                },
+                {
+                    "name": "Pancetta",
+                    "quantity": "100g"
+                },
+                {
+                    "name": "Eggs",
+                    "quantity": "2"
+                },
+                {
+                    "name": "Parmesan Cheese",
+                    "quantity": "50g"
+                },
+                {
+                    "name": "Black Pepper",
+                    "quantity": "to taste"
+                },
+                {
+                    "name": "Salt",
+                    "quantity": "to taste"
+                }
+            ],
+            "instructions": [
+                "Cook the spaghetti according to the package instructions.",
+                "In a separate pan, cook the pancetta until crispy.",
+                "Beat the eggs in a bowl and mix in the grated Parmesan cheese.",
+                "Drain the spaghetti and return to the pot.",
+                "Quickly mix in the pancetta and the egg mixture, stirring constantly to create a creamy sauce.",
+                "Season with salt and black pepper to taste."
+            ],
+            "prepTime": "10 minutes",
+            "cookTime": "20 minutes",
+            "servings": 2
+        },
+        {
+            "id": 2,
+            "name": "Chicken Curry",
+            "ingredients": [
+                {
+                    "name": "Chicken Breast",
+                    "quantity": "500g"
+                },
+                {
+                    "name": "Onions",
+                    "quantity": "2"
+                },
+                {
+                    "name": "Garlic Cloves",
+                    "quantity": "3"
+                },
+                {
+                    "name": "Ginger",
+                    "quantity": "1 inch piece"
+                },
+                {
+                    "name": "Tomatoes",
+                    "quantity": "3"
+                },
+                {
+                    "name": "Coconut Milk",
+                    "quantity": "400ml"
+                },
+                {
+                    "name": "Curry Powder",
+                    "quantity": "2 tbsp"
+                },
+                {
+                    "name": "Salt",
+                    "quantity": "to taste"
+                },
+                {
+                    "name": "Vegetable Oil",
+                    "quantity": "2 tbsp"
+                }
+            ],
+            "instructions": [
+                "Heat the oil in a large pan and sauté the chopped onions until golden brown.",
+                "Add minced garlic and grated ginger, and cook for another minute.",
+                "Add the diced chicken breast and cook until browned on all sides.",
+                "Stir in the curry powder and cook for a minute to release the flavors.",
+                "Add chopped tomatoes and cook until they break down and form a sauce.",
+                "Pour in the coconut milk, bring to a simmer, and cook until the chicken is fully cooked and the sauce thickens.",
+                "Season with salt to taste and serve hot."
+            ],
+            "prepTime": "15 minutes",
+            "cookTime": "30 minutes",
+            "servings": 4
+        }
+    ]
+}
